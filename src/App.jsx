@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const API_URL = "https://test-backend-production-1021.up.railway.app";
+const API_URL = "https://testsecondbackend-production1.up.railway.app";
 
 function App() {
   const [isLogin, setIsLogin] = useState(false);
